@@ -124,7 +124,7 @@ public class Main {
 
     // Задание 5. Минимальное и максимальное число массива
 
-   /* public static void MinMax(){
+   public static void MinMax(){
         System.out.println("Введите длинну массива");
         Scanner scanner = new Scanner(System.in);
         int LengthArr  = scanner.nextInt();
@@ -144,7 +144,7 @@ public class Main {
 
             }
         }
-    }*/
+    
 
 }
 
